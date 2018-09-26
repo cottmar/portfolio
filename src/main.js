@@ -1,3 +1,5 @@
+// npm run watch
+// http://localhost:8080/
 'use strict';
 
 import React from 'react';

@@ -49,6 +49,7 @@
     "webpack-merge": "^4.1.2"
   },
   "dependencies": {
+    "react-helmet": "^5.2.0",
     "superagent": "^3.8.3"
   },
   "keywords": [],

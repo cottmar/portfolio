@@ -6,7 +6,7 @@ const { DefinePlugin } = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssPlugin = require('mini-css-extract-plugin');
 
-const production = process.env.NODE_ENV === 'production'; 
+const production = process.env.NODE_ENV === 'development'; 
 
 const webpackConfig = module.exports = {};
 

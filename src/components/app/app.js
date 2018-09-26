@@ -11,6 +11,6 @@ export default class App extends React.Component {
           <meta property="og:title" content="Cara Ottmar : Portfolio"/>
         </Helmet>
       </BrowserRouter>
-    )
+    );
   }
 }
