@@ -9,8 +9,9 @@ export default class App extends React.Component {
         <Helmet>
           <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
           <meta property="og:title" content="Cara Ottmar : Portfolio"/>
+          <p> HJSDFHLSDJL </p>
         </Helmet>
       </BrowserRouter>
-    )
+    );
   }
 }
